@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+/.idea
+/Wise.sln.DotSettings.user
+.vs
+cosmodb_password
+user-password
+/k8/wise-services/charts/nginx-ingress-1.41.1.tgz
